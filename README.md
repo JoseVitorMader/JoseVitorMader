@@ -1,55 +1,45 @@
 <div align="center">
 
-# José Vitor Mader
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,100:00BFFF&text=José%20Vitor%20Mader&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full+Stack+Developer;Artificial+Intelligence;Data+Science"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Full+Stack+Developer;Artificial+Intelligence;Data+Science"/>
 
 </div>
 
-<br>
+---
 
 <table align="center">
 <tr>
 
-<td width="35%" valign="top">
+<td width="30%" align="center">
 
-## Sobre
+<img width="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-```
-Graduando em Engenharia de Software
+### About
 
-Técnico em Desenvolvimento de Sistemas
+Software Engineering Student
 
-Técnico em Ciência de Dados
+Technical Degree in Software Development
+
+Technical Degree in Data Science
 
 Full Stack Developer
 
-Focado em IA, Automação
-e Ciência de Dados.
-```
+Artificial Intelligence
 
-<br>
-
-### Conquistas
-
-```
-1º Lugar
-Vivo Data Challenge 2024
-
-2º Lugar
-FECITEC 2024
-
-3º Lugar
-Vivo Data Challenge 2025
-```
+Automation
 
 </td>
 
-<td width="65%">
+<td width="35%" align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JoseVitorMader&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=JoseVitorMader&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVitorMader&layout=compact&theme=tokyonight&hide_border=true"/>
+</td>
+
+<td width="35%" align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVitorMader&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </td>
 
@@ -60,9 +50,9 @@ Vivo Data Challenge 2025
 
 <div align="center">
 
-## Tecnologias
+## Technologies
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,html,css,python,firebase,mysql,git,github,docker,linux,vscode&perline=7"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,typescript,javascript,html,css,python,firebase,mysql,git,github,docker,linux,vscode&perline=7"/>
 
 </div>
 
@@ -71,31 +61,31 @@ Vivo Data Challenge 2025
 <table align="center">
 <tr>
 
-<td width="50%">
+<td width="50%" align="center">
 
-### Projetos
-
-**Fuuto**
-
-IA para redução do desperdício alimentar.
-
-<br>
-
-**Studentook**
-
-Biblioteca digital do PNLD.
-
-<br>
-
-**SIGA**
-
-Detecção inteligente de golpes digitais.
+<img width="330" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 </td>
 
 <td width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=JoseVitorMader&theme=tokyonight&hide_border=true"/>
+### Featured Projects
+
+**Fuuto**
+
+Artificial Intelligence for reducing food waste.
+
+---
+
+**Studentook**
+
+Digital library for PNLD textbooks.
+
+---
+
+**SIGA**
+
+AI platform for identifying digital scams.
 
 </td>
 
@@ -115,19 +105,21 @@ Detecção inteligente de golpes digitais.
 <div align="center">
 
 <a href="mailto:maderjosevitor@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-181717?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail">
 </a>
 
 <a href="https://linkedin.com/in/josé-vitor-mader-866199301">
-<img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin">
 </a>
 
 <a href="https://github.com/JoseVitorMader">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github">
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=JoseVitorMader&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=JoseVitorMader&style=for-the-badge&color=00BFFF"/>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00BFFF,100:0D1117"/>
