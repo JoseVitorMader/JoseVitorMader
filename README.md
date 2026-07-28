@@ -1,100 +1,112 @@
 <div align="center">
 
-# 👋 Olá, eu sou José Vitor Mader
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00BFFF&height=220&section=header&text=José%20Vitor%20Mader&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%7C%20Full%20Stack%20Developer%20%7C%20AI&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Full+Stack+Developer;AI+%26+Data+Science;Always+Learning+Something+New+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Full+Stack+Developer;Artificial+Intelligence;Data+Science;Always+Building+Something+Awesome"/>
 
 </div>
 
 ---
 
-## 💫 Sobre mim
+# 👨‍💻 Sobre mim
+
+<img align="right" width="330" src="https://github-readme-stats.vercel.app/api?username=JoseVitorMader&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 🎓 Técnico em **Desenvolvimento de Sistemas**
 
 📊 Técnico em **Ciência de Dados**
 
-📚 Atualmente cursando **Engenharia de Software** na **Católica de Santa Catarina**
+📚 Graduando em **Engenharia de Software** na **Católica SC**
 
-💡 Apaixonado por desenvolvimento de software, Inteligência Artificial, automação e criação de soluções que geram impacto positivo.
+💙 Apaixonado por tecnologia, Inteligência Artificial e desenvolvimento de soluções que geram impacto real.
 
----
+🏆 Vencedor nacional do **Desafio de Dados Vivo**
 
-## 🏆 Conquistas
+🥈 Medalhista da **FECITEC**
 
-🥇 **1º Lugar Nacional — Desafio de Dados Vivo (2024)**
+🚀 Desenvolvedor Full Stack
 
-> **Fuuto**
->
-> Aplicativo utilizando Inteligência Artificial para reduzir o desperdício de alimentos nas escolas públicas.
-
-🥈 **2º Lugar — XVI FECITEC (2024)**
-
-> **Studentook**
->
-> Plataforma para disponibilização dos livros didáticos do PNLD para estudantes da rede pública.
-
-🥉 **3º Lugar — Desafio de Dados Vivo (2025)**
-
-> **SIGA**
->
-> Plataforma com IA para identificação de golpes digitais em SMS, WhatsApp e E-mail.
+<br>
 
 ---
 
-# 💻 Tecnologias
+# 💻 Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,firebase,mysql,git,github,vscode,figma,linux"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,html,css,python,firebase,mysql,git,github,linux,vscode,figma,docker"/>
 
 </div>
 
 ---
 
-# 📊 GitHub
+# 🏆 Principais Projetos
+
+<table>
+<tr>
+<td width="33%">
+
+### 🥇 Fuuto
+
+Aplicação com IA para redução do desperdício de alimentos nas escolas públicas.
+
+</td>
+
+<td width="33%">
+
+### 🥈 Studentook
+
+Plataforma para acesso aos livros didáticos do PNLD.
+
+</td>
+
+<td width="33%">
+
+### 🥉 SIGA
+
+Sistema inteligente para identificação de golpes digitais.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 Estatísticas
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JoseVitorMader&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVitorMader&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 Sequência de Contribuições
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=JoseVitorMader&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Activity Graph
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=JoseVitorMader&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏅 GitHub Trophies
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=JoseVitorMader&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=JoseVitorMader&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
 ---
-
-# 🐍 Contributions Snake
 
 <div align="center">
 
@@ -104,30 +116,16 @@
 
 ---
 
-# 🚀 Atualmente
-
-✔️ Engenharia de Software
-
-✔️ Desenvolvimento Full Stack
-
-✔️ Inteligência Artificial
-
-✔️ Automação
-
-✔️ Ciência de Dados
-
----
+# 🌐 Contato
 
 <div align="center">
 
-## 🌎 Vamos nos conectar!
-
-<a href="https://www.linkedin.com/in/josé-vitor-mader-866199301/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="mailto:maderjosevitor@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="mailto:maderjosevitor@gmail.com">
-<img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail"/>
+<a href="https://linkedin.com/in/josé-vitor-mader-866199301">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/JoseVitorMader">
@@ -136,11 +134,10 @@
 
 </div>
 
----
-
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=JoseVitorMader&style=for-the-badge&color=blue)
+<img src="https://komarev.com/ghpvc/?username=JoseVitorMader&style=for-the-badge&color=blue"/>
 
 </div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0D1117&height=120&section=footer"/>
