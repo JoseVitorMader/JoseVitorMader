@@ -1,10 +1,10 @@
 <table>
   <td>
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=JoseVitorMader">
-    <img src="https://komarev.com/ghpvc/?username=JoseVitorMader&label=Profile%20Views&color=00BFFF&style=flat-square" alt="JoseVitorMader's profile views" />
-  </a>
-</p>
+    <p align="center">
+      <a href="https://komarev.com/ghpvc/?username=JoseVitorMader">
+        <img src="https://komarev.com/ghpvc/?username=JoseVitorMader&label=Profile%20Views&color=00BFFF&style=flat-square" alt="JoseVitorMader's profile views" />
+      </a>
+    </p>
   </td>
 </table>
 
@@ -17,29 +17,21 @@
 
 **Software Engineering Undergraduate** from **Brazil**
 
-Passionate about software development, Artificial Intelligence, automation, and creating technology that makes a real impact.
+Passionate about software development, Artificial Intelligence, automation, and building technology that creates a positive impact.
 
-> ### About Me
+---
 
-* Undergraduate in **Software Engineering** at **Católica de Santa Catarina**.
-* Technical Degree in **Software Development**.
-* Technical Degree in **Data Science**.
-* Full Stack Developer focused on modern web technologies.
-* Constantly learning and building innovative solutions.
+### About Me
 
-> ### Tech Stack
+- Software Engineering Undergraduate at **Católica de Santa Catarina**
+- Technical Degree in **Software Development**
+- Technical Degree in **Data Science**
+- Full Stack Developer
+- Focused on Artificial Intelligence, Automation and Web Technologies
 
-**Frontend:** React, HTML5, CSS3, JavaScript, TypeScript
+---
 
-**Backend:** Node.js, Express.js, Firebase
-
-**Databases:** MySQL, Firebase
-
-**Languages:** JavaScript, TypeScript, Python, C
-
-**Tools:** Git, GitHub, Docker, VS Code, Figma, Linux
-
-> ### Featured Projects
+### Featured Projects
 
 **Fuuto**
 
@@ -47,39 +39,103 @@ Artificial Intelligence solution focused on reducing food waste in public school
 
 **Studentook**
 
-Digital platform for providing access to PNLD textbooks for public school students.
+Platform that provides public school students with access to PNLD textbooks.
 
 **SIGA**
 
-Artificial Intelligence platform for detecting scams through SMS, WhatsApp and Email.
+Artificial Intelligence platform for identifying scams through SMS, WhatsApp and Email.
 
-> ### Achievements
+---
 
-🏆 **1st Place — Vivo Data Challenge 2024**
+### Achievements
 
-🥈 **2nd Place — XVI FECITEC 2024**
+🥇 **1st Place** — Vivo Data Challenge 2024
 
-🥉 **3rd Place — Vivo Data Challenge 2025**
+🥈 **2nd Place** — XVI FECITEC 2024
 
-> ### Connect with Me
+🥉 **3rd Place** — Vivo Data Challenge 2025
+
+---
+
+### Tech Stack
+
+**Frontend**
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,js,ts"/>
+</p>
+
+**Backend**
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase"/>
+</p>
+
+**Database**
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+**Languages**
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,c"/>
+</p>
+
+**Tools**
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma"/>
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JoseVitorMader&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVitorMader&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://streak-stats.demolab.com?user=JoseVitorMader&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+### Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/jos%C3%A9-vitor-mader-866199301/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40"/></a>
-  <a href="https://github.com/JoseVitorMader"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="40"/></a>
-  <a href="mailto:maderjosevitor@gmail.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40"/></a>
+
+<a href="https://www.linkedin.com/in/jos%C3%A9-vitor-mader-866199301/">
+<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40"/>
+</a>
+
+<a href="https://github.com/JoseVitorMader">
+<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="40"/>
+</a>
+
+<a href="mailto:maderjosevitor@gmail.com">
+<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40"/>
+</a>
+
 </p>
 
 ---
 
 *"Always learning. Always building."*
 
----
-
 </td>
 
 <td align="center" width="40%">
 
-<img src="https://github.com/user-attachments/assets/1287993c-d369-409b-b43a-22c9fd2853f6" width="100%" style="border-radius:16px;" alt="Profile Image"/>
+<img src="https://github.com/user-attachments/assets/1287993c-d369-409b-b43a-22c9fd2853f6" width="100%" alt="Profile Image"/>
 
 </td>
 
