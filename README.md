@@ -11,14 +11,14 @@
 
 ---
 
-### THE INK WELL (Sobre Mim)
+### THE INK WELL 
 
 <table width="100%">
 <tr>
 <td width="60%" valign="top">
 
 - Graduando em **Engenharia de Software** na *Católica de Santa Catarina*
-- Desenvolvedor na **JMA Tecnologia** (Sistemas & Análise de Dados)
+- Analista de Suporte na **Agricopel** (Atendimento ao cliente, Advpl & Análise de Dados)
 - Técnico em **Desenvolvimento de Sistemas** & Técnico em **Ciência de Dados**
 - Focado em **Inteligência Artificial, Automação e Tecnologias Web**
 - *"Sempre aprendendo. Sempre construindo sob a tinta."*
@@ -32,7 +32,7 @@
 
 ---
 
-### CHAPTER RECORDS (Minhas Conquistas Recentes)
+### CHAPTER RECORDS 
 
 | Premiação / Conquista | Descrição do Marco |
 | :--- | :--- |
@@ -66,7 +66,7 @@
 
 ---
 
-### THE CARTOON SKILLS (Habilidades & Ferramentas)
+### THE CARTOON SKILLS 
 
 **Linguagens & Tecnologias**
 <p>
@@ -81,7 +81,7 @@
 
 ---
 
-### INK MACHINE METRICS (GitHub Stats)
+### INK MACHINE METRICS 
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=JoseVitorMader&show_icons=true&theme=vue-dark&hide_border=true&rank_icon=github&title_color=b5651d&icon_color=b5651d" />
@@ -94,7 +94,7 @@
 
 ---
 
-### BROADCAST ROOM (Conecte-se Comigo)
+### BROADCAST ROOM 
 
 <p align="center">
   <a href="https://github.com/JoseVitorMader" target="_blank">
