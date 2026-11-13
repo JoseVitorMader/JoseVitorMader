@@ -1,9 +1,9 @@
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=JoseVitorMader&label=INK%20PROFILE%20VIEWS&color=2a1a12&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=JoseVitorMader&label=INK%20ARCHIVE%20VIEWS&color=111111&style=for-the-badge" alt="Profile Views" />
 
   <h1>JOSÉ VITOR MADER</h1>
-  <p><em>Software Engineer Undergraduate | Data Science & AI Enthusiast | JMA Tecnologia</em></p>
+  <p><em>SUPPORT N2-N3 | ADVPL & DATABASE SPECIALIST | SOFTWARE ENGINEERING UNDERGRADUATE</em></p>
 
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/sevinc.png" width="100%" />
 
@@ -11,28 +11,28 @@
 
 ---
 
-### THE INK WELL 
+### [01] THE INK WELL (Sobre Mim)
 
 <table width="100%">
 <tr>
 <td width="60%" valign="top">
 
 - Graduando em **Engenharia de Software** na *Católica de Santa Catarina*
-- Analista de Suporte na **Agricopel** (Atendimento ao cliente, Advpl & Análise de Dados)
+- **Analista de Suporte N2 e N3 na Agricopel** (Infraestrutura, Servidores, Bancos de Dados & ADVPL)
 - Técnico em **Desenvolvimento de Sistemas** & Técnico em **Ciência de Dados**
-- Focado em **Inteligência Artificial, Automação e Tecnologias Web**
-- *"Sempre aprendendo. Sempre construindo sob a tinta."*
+- Focado em automações, otimização de consultas SQL e arquitetura corporativa
+- *"The Creator lied to us..."*
 
 </td>
 <td width="40%" align="center">
-  <img src="https://github.com/user-attachments/assets/1287993c-d369-409b-b43a-22c9fd2853f6" width="220px" alt="José Vitor Mader" style="border-radius: 8px; border: 2px solid #3c2415;" />
+  <img src="https://github.com/user-attachments/assets/1287993c-d369-409b-b43a-22c9fd2853f6" width="200px" alt="José Vitor Mader" style="border: 3px solid #111; box-shadow: 4px 4px 0px #111;" />
 </td>
 </tr>
 </table>
 
 ---
 
-### CHAPTER RECORDS 
+### [02] CHAPTER RECORDS (Minhas Conquistas Recentes)
 
 | Premiação / Conquista | Descrição do Marco |
 | :--- | :--- |
@@ -44,7 +44,7 @@
 
 ---
 
-### ARCHIVES & PROJECTS (Projetos em Destaque)
+### [03] ARCHIVES & PROJECTS (Projetos em Destaque)
 
 *   **Tá na Medida — Redução de Desperdício Alimentar**
     * *O que é:* Aplicativo com Inteligência Artificial e análise preditiva para otimizar refeições e monitorar consumo em escolas estaduais.
@@ -66,52 +66,52 @@
 
 ---
 
-### THE CARTOON SKILLS 
+### [04] THE CARTOON SKILLS (Habilidades & Ferramentas)
 
 **Linguagens & Tecnologias**
 <p>
 <img src="https://skillicons.dev/icons?i=js,ts,python,c,html,css,react,nodejs,express,firebase,mysql,git,github,docker,linux,vscode,figma" />
 </p>
 
-**Soft Skills & Competências**
-> `Comunicativo` &nbsp;•&nbsp; `Inglês Fluente` &nbsp;•&nbsp; `Proativo` &nbsp;•&nbsp; `Ágil` &nbsp;•&nbsp; `Adaptabilidade` &nbsp;•&nbsp; `Machine Learning` &nbsp;•&nbsp; `Data Science`
+**Competências & Infraestrutura**
+> `Suporte N2 / N3` &nbsp;•&nbsp; `ADVPL / Protheus` &nbsp;•&nbsp; `Bancos de Dados & SQL` &nbsp;•&nbsp; `Gestão de Servidores` &nbsp;•&nbsp; `Machine Learning` &nbsp;•&nbsp; `Data Science` &nbsp;•&nbsp; `Inglês Fluente`
 
 **Hobbies & Interesses**
 > `Leitura` &nbsp;•&nbsp; `Programação` &nbsp;•&nbsp; `Música` &nbsp;•&nbsp; `Escrita` &nbsp;•&nbsp; `Gaming` &nbsp;•&nbsp; `Sustentabilidade`
 
 ---
 
-### INK MACHINE METRICS 
+### [05] INK MACHINE METRICS (GitHub Stats)
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JoseVitorMader&show_icons=true&theme=vue-dark&hide_border=true&rank_icon=github&title_color=b5651d&icon_color=b5651d" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVitorMader&layout=compact&theme=vue-dark&hide_border=true&title_color=b5651d" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JoseVitorMader&show_icons=true&theme=radical&hide_border=true&rank_icon=github&title_color=111&icon_color=111&bg_color=f4ecd8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVitorMader&layout=compact&theme=radical&hide_border=true&title_color=111&bg_color=f4ecd8" />
 </p>
 
 <p align="center">
-  <img height="150" src="https://streak-stats.demolab.com?user=JoseVitorMader&theme=vue-dark&hide_border=true&stroke=3c2415&background=1a100c&fire=b5651d&sideNums=d4b28c" />
+  <img height="150" src="https://streak-stats.demolab.com?user=JoseVitorMader&theme=radical&hide_border=true&stroke=111&background=f4ecd8&fire=111&sideNums=111" />
 </p>
 
 ---
 
-### BROADCAST ROOM 
+### [06] BROADCAST ROOM (Conecte-se Comigo)
 
 <p align="center">
   <a href="https://github.com/JoseVitorMader" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-1a100c?style=for-the-badge&logo=github&logoColor=d4b28c&color=1a100c" />
+    <img src="https://img.shields.io/badge/GitHub-f4ecd8?style=for-the-badge&logo=github&logoColor=111&color=f4ecd8&style=flat" />
   </a>
   <a href="https://www.linkedin.com/in/jos%C3%A9-vitor-mader-866199301/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1a100c?style=for-the-badge&logo=linkedin&logoColor=d4b28c&color=1a100c" />
+    <img src="https://img.shields.io/badge/LinkedIn-f4ecd8?style=for-the-badge&logo=linkedin&logoColor=111&color=f4ecd8&style=flat" />
   </a>
   <a href="mailto:maderjosevitor@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-1a100c?style=for-the-badge&logo=gmail&logoColor=d4b28c&color=1a100c" />
+    <img src="https://img.shields.io/badge/Gmail-f4ecd8?style=for-the-badge&logo=gmail&logoColor=111&color=f4ecd8&style=flat" />
   </a>
   <a href="https://tanamedida.app.br" target="_blank">
-    <img src="https://img.shields.io/badge/T%C3%A1_na_Medida-1a100c?style=for-the-badge&logo=appsignal&logoColor=d4b28c&color=1a100c" />
+    <img src="https://img.shields.io/badge/Tá_na_Medida-f4ecd8?style=for-the-badge&logo=appsignal&logoColor=111&color=f4ecd8&style=flat" />
   </a>
 </p>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/sevinc.png" width="100%" />
-  <p><em>"The Creator lied to us..."</em></p>
+  <p><em>"Dreams come true."</em></p>
 </div>
